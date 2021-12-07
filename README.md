@@ -1,2 +1,2 @@
 # lp-advertising
-// demo - http://mirror.your-site.ru.com/
+// demo - https://alexander-webov.github.io/lp-advertising/
